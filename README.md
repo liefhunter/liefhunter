@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!---![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Monash-UAS-Banner.jpg)--->
 
-![](https://raw.githubusercontent.com/liefhunter/images/main/imghabits.jpg)
+![Banner](https://raw.githubusercontent.com/liefhunter/images/main/imghabits.jpg)
 
 <p align="center">
     <a href="https://github.com/liefhunter" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@liefhunter-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
