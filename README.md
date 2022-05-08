@@ -34,6 +34,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/liefhunter?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
     <a href="https://github.com/liefhunter?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
     <a href="https://github.com/liefhunter?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
+     <a href="https://github.com/liefhunter?tab=repositories&language=JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
 </p>
 
 <p align="center">
